@@ -1,0 +1,9 @@
+kuis_dictionary.py
+
+kuis_tipedata.py
+data_diri = {
+    "firstName": "John",  # Ganti dengan nama depan Anda
+    "lastName": "Doe",     # Ganti dengan nama belakang Anda
+    "age": 30,             # Ganti dengan umur Anda
+    "isMarried": False     # Ganti dengan status pernikahan Anda (True/False)
+}
