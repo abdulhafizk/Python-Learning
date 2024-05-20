@@ -40,7 +40,11 @@ minimal = min(var_list)
 # Banyaknya angka 605132 dalam list
 banyak = var_list.count(605132)
 
-print(panjang)
-print(maksimal)
-print(minimal)
-print(banyak)
+# print(str(panjang) == str(len(var_list)))
+print(str(banyak) == str(var_list.count(605132)))
+
+
+# print(panjang)
+# print(maksimal)
+# print(minimal)
+# print(banyak)
